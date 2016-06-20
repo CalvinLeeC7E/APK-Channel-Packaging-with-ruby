@@ -1,0 +1,13 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    rubyzip (1.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubyzip (>= 1.0.0)
+
+BUNDLED WITH
+   1.12.4

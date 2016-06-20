@@ -1,11 +1,11 @@
 # APK-Channel-Packaging-with-ruby
 
 
-##write a state to the APK installation package, when app start use a tool to read this state.
+##write a status to the APK installation package, when app start use a tool to read this status.
 
 ---
 ##config
-###Write a state in each row
+###Write a status in each row
 
 ---
 ##@template

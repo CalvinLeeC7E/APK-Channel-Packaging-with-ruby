@@ -1,17 +1,24 @@
-# APK-Channel-Packaging-with-ruby
+APK-Channel-Packaging-with-ruby
+======
 
+将配置文件里的每一行字符串，分别打包成不同的APK，App运行时读取此数据区分渠道
 
-##write a status to the APK installation package, when app start use a tool to read this status.
+How to run
+-------
+if you first run this script
 
-##config
-###Write a status in each row
+```ruby
+	$ bundle install
+```
 
-##@template
-###in apk_channel_packaging.rb function initialize you can change template 
+if you don't have bundler,
 
-##How to run
-### if you first run this script
-### bundle install
-### if you don't have bundler, gem install bundler
+```ruby
+	$ gem install bundler
+```
 
-##$ ruby apk_channel_packaging.rb
+run
+
+```ruby
+	$ ruby apk_channel_packaging.rb
+```

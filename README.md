@@ -8,17 +8,17 @@ How to run
 if you first run this script
 
 ```ruby
-	$ bundle install
+$ bundle install
 ```
 
 if you don't have bundler,
 
 ```ruby
-	$ gem install bundler
+$ gem install bundler
 ```
 
 run
 
 ```ruby
-	$ ruby apk_channel_packaging.rb
+$ ruby apk_channel_packaging.rb
 ```
